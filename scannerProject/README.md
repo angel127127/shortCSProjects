@@ -21,8 +21,10 @@ Requires Python 3.7+
 
 ## Challenges 
 Handling the difference betweem IPv4 and IPv6 connections
+
 Managing the multi-threading, ensuring the threads didn't timeout too quickly
 
 ## Screenshot of console results
 
 ![Screenshot](consoleOutput.png)
+
